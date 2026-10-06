@@ -1,0 +1,5 @@
+commit 2e6423c037690d47e7bc420ac626ec8303ece963
+Author: sanaalshboul <smalshboul16@cit.just.edu.jo>
+Date:   Tue Oct 6 10:42:32 2026 +0300
+
+    Add hello.txt
